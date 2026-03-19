@@ -32,7 +32,7 @@
 |---|---------|----------|-------|---------|
 | 01 | Dragón | nmap · gobuster · hydra · GTFOBins | 18/03/2026 | [📝](./thehackerslabs/dragon/README.md) |
 | 02 | LavaShop | nmap · ffuf · wfuzz · hydra · LFI | 17/03/2026 | [📝](./thehackerslabs/lavashop/README.md) |
-| 03 | pendiente | - | - | 📝 |
+| 03 | Relojería | nmap · gobuster · LFI · Werkzeug RCE · GTFOBins | 18/03/2026 | [📝](./thehackerslabs/relojeria/README.md) |
 | 04 | pendiente | - | - | 📝 |
 
 ### 🟡 The Hackers Labs — Media
