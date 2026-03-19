@@ -30,7 +30,7 @@
 
 | # | Máquina | Técnicas | Fecha | Writeup |
 |---|---------|----------|-------|---------|
-| 01 | pendiente | - | - | 📝 |
+| 01 | Dragón | nmap · gobuster · hydra · GTFOBins | 18/03/2026 | [📝](./thehackerslabs/dragon/README.md) |
 | 02 | pendiente | - | - | 📝 |
 | 03 | pendiente | - | - | 📝 |
 | 04 | pendiente | - | - | 📝 |
