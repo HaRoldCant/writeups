@@ -31,7 +31,7 @@
 | # | Máquina | Técnicas | Fecha | Writeup |
 |---|---------|----------|-------|---------|
 | 01 | Dragón | nmap · gobuster · hydra · GTFOBins | 18/03/2026 | [📝](./thehackerslabs/dragon/README.md) |
-| 02 | pendiente | - | - | 📝 |
+| 02 | LavaShop | nmap · ffuf · wfuzz · hydra · LFI | 17/03/2026 | [📝](./thehackerslabs/lavashop/README.md) |
 | 03 | pendiente | - | - | 📝 |
 | 04 | pendiente | - | - | 📝 |
 
