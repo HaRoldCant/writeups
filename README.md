@@ -34,6 +34,7 @@
 | 02 | LavaShop | nmap · ffuf · wfuzz · hydra · LFI | 17/03/2026 | [📝](./thehackerslabs/lavashop/README.md) |
 | 03 | Relojería | nmap · gobuster · LFI · Werkzeug RCE · GTFOBins | 18/03/2026 | [📝](./thehackerslabs/relojeria/README.md) |
 | 04 | Cyberpunk (Arasaka) | nmap · ftp · webshell · Brainfuck · Library Hijacking | 18/03/2026 | [📝](./thehackerslabs/arasaka/README.md) |
+| 05 | NodeCeption | nmap · gobuster · ffuf · n8n RCE · hydra · GTFOBins | 21/03/2026 | [📝](./thehackerslabs/nodeception/README.md) |
 ### 🟡 The Hackers Labs — Media
 *Próximamente...*
 
