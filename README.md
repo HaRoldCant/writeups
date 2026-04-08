@@ -37,6 +37,7 @@
 | 05 | NodeCeption | nmap · gobuster · ffuf · n8n RCE · hydra · GTFOBins | 21/03/2026 | [📝](./thehackerslabs/nodeception/README.md) |
 | 06 | Papaya | nmap · ftp · searchsploit · webshell · john · GTFOBins | 22/03/2026 | [📝](./thehackerslabs/papaya/README.md) |
 | 07 | Academy | nmap · gobuster · wpscan · reverse shell · pspy64 · cron abuse | 26/03/2026 | [📝](./thehackerslabs/academy/README.md) |
+| 08 | THLPWN | nmap · curl · gobuster · strings · sudo | 08/04/2026 | [📝](./thehackerslabs/thlpwn/README.md) |
 ### 🟡 The Hackers Labs — Media
 *Próximamente...*
 
