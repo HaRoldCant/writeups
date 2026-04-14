@@ -41,7 +41,7 @@
 | 09 | Zapp | nmap · ftp · base64 · john · sudo GTFOBins | 09/04/2026 | [📝](./thehackerslabs/zapp/README.md) |
 | 10 | Sedition | nmap · nxc · smbclient · john · hydra · MariaDB · GTFOBins | 09/04/2026 | [📝](./thehackerslabs/sedition/README.md) |
 ### 🟡 The Hackers Labs — Media
-*Próximamente...*
+| 01 | USG-Ishimura | nmap · ftp · morse · esteganografía · sudo · capabilities | 14/04/2026 | [📝](./thehackerslabs/ishimura/README.md) |
 
 ### 🔴 CTF Competitions
 *Próximamente...*
